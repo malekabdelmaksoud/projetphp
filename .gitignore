@@ -1,0 +1,5 @@
+# Sensitive deploy config (contains DB password)
+deploy/config.php
+deploy_ready/config.php
+deploy_ready/
+covoiturage_deploy.zip
